@@ -23,11 +23,11 @@ How to for venv:
 
 How to for Django
 
-- to install Django `py -m pip install Django`
-- to create new project `django-admin startproject myproject`
+- to install Django `pip install Django`
+- to create new project `django-admin startproject videosharing`
 - to run Django `py manage.py runserver`
 - to quit the server `CTRL + c`
-- to create new app `py manage.py startapp <name>` e.g. new app named posts `py manage.py startapp posts`
+- to create new app `py manage.py startapp <name>` e.g. new app named videos `py manage.py startapp videos`
 - to migrate database `py manage.py migrate`
 - for new migration, need to first make migration `py manage.py makemigrations`
 - get list of commands `py manage.py`
