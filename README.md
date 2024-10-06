@@ -8,10 +8,12 @@ This app will allow a user to upload videos to share to the site. There will als
 
 This repository is for following Legion Script's Video Sharing App using Django tutorial on Youtube https://www.youtube.com/watch?v=T4XZgW3nEX4&list=PLPSM8rIid1a1odNhUPUQiuP5lWTTp82qy
 
-Stopped tutorial video at
+Stopped tutorial video at 16.50
 
 Alternatively, the written tutorial is on Medium https://legionscript.medium.com/building-a-video-sharing-website-part-1-setup-crud-operations-da2c2699ec9a
 _I tried to follow the written tutorial_
+
+Stopped before "Setting Up a Basic Index Page"
 
 Resources for the tutorial can be found here https://github.com/legionscript/Video-Sharing/tree/master
 
