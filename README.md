@@ -27,7 +27,7 @@ How to for Django
 
 - to install Django `pip install Django`
 - to create new project `django-admin startproject videosharing`
-- to run Django `py manage.py runserver`
+- to run Django `deactivate`
 - to quit the server `CTRL + c`
 - to create new app `py manage.py startapp <name>` e.g. new app named videos `py manage.py startapp videos`
 - to migrate database `py manage.py migrate`
@@ -36,4 +36,4 @@ How to for Django
 - to access application shell `py manage.py shell`
 - to exit shell `exit()`
 - create super user `py manage.py createsuperuser`
-- super user credentials (user: , pass: )
+- super user credentials (user: admin, pass: admin)
