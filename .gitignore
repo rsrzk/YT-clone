@@ -1,0 +1,3 @@
+*.mp4       # Example to ignore all MP4 files
+/videosharing/media/uploads/*   # Ignore all files in an `uploads` folder
+*.sqlite3
