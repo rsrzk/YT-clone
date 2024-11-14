@@ -1,4 +1,4 @@
 *.mp4       # Example to ignore all MP4 files
-/videosharing/media/uploads/video_files*   # Ignore all files in `video_files` folder
-/videosharing/media/uploads/thumbnails*   # Ignore all files in `video_files` folder
+/videosharing/media/uploads/video_files/*   # Ignore all files in `video_files` folder
+/videosharing/media/uploads/thumbnails/*   # Ignore all files in `thumbnails` folder
 *.sqlite3
